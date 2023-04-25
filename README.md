@@ -13,3 +13,7 @@ Caso der erro ao iniciar o ambiente virtual em Windows rodar este comando no pow
 4. Instale as demais dependências: ```python -m pip install -r requirements.txt```
 
 **Obs**: sempre que for rodar o código, verifique se o ambiente virtual está ativado.
+
+## Execução
+
+```python jogoteca.py```
