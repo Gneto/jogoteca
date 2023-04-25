@@ -1,6 +1,6 @@
 # Jogoteca
 
-Repositório criado para contem os códigos do curso Alura Flask. O curso aborda o passo a passo de um CRUD utilizando o framework Flask + MySQL.
+Repositório criado para conter os códigos do curso Alura Flask. O curso aborda o passo a passo de um CRUD utilizando o framework Flask + MySQL.
 
 ## Instalação
 
@@ -13,3 +13,10 @@ Caso der erro ao iniciar o ambiente virtual em Windows rodar este comando no pow
 4. Instale as demais dependências: ```python -m pip install -r requirements.txt```
 
 **Obs**: sempre que for rodar o código, verifique se o ambiente virtual está ativado.
+
+## Execução
+
+Preparação do banco de dados: ```python prepara_banco.py```
+
+
+Servidor: ```python jogoteca.py```
