@@ -1,5 +1,7 @@
 flask==2.0.2
 mysql-connector-python==8.0.28
-flask-sqlalchemy==3.0.3
+flask-sqlalchemy
 mysqlclient==2.1.1
 flask-wtf==1.0.0
+flask-bcrypt==0.7.1
+Werkzeug==2.0.3
