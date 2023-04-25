@@ -16,4 +16,7 @@ Caso der erro ao iniciar o ambiente virtual em Windows rodar este comando no pow
 
 ## Execução
 
-```python jogoteca.py```
+Preparação do banco de dados: ```python prepara_banco.py```
+
+
+Servidor: ```python jogoteca.py```
